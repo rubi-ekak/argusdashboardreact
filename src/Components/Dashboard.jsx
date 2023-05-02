@@ -18,7 +18,7 @@ const Dashboard = () => {
     <div>
       <div class="container-fluid">
         <div class="row flex-nowrap">
-          <div class={toggle?"col-auto col-md-3 col-xl-2  px-0 bg-primary sidenav":"col-auto col-md-3 col-xl-2  px-0 bg-primary div-section"}>
+          <div class="col-auto col-md-3 col-xl-2  px-0 bg-primary sidenav">
             <div class="d-flex flex-column align-items-center align-items-sm-start  pt-2 text-white min-vh-100 w-100">
               <a
                 href="/"
