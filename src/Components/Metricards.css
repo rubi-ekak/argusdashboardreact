@@ -1,0 +1,136 @@
+.card{
+    box-shadow: 0 14.3px 17.9px rgba(0, 0, 0, 0.072);
+    border: 0;
+    margin-left: 1rem;
+  
+    border-radius: 0.5rem;
+    padding: 2rem;
+    display: flex;
+}
+/* .text-card{
+    color: #fff;
+} */
+
+/* .card-background{
+    box-shadow: 0 14.3px 17.9px rgba(0, 0, 0, 0.072);
+    background-color: #fff;
+    border-radius: 0.5rem;
+} */
+
+/* .mertic-card{
+    padding:0 1rem;
+} */
+/* .card-body{
+ padding: 8px;
+} */
+.card-item2{
+    width: 2.5rem;
+    color: #ffc233;
+    background: #ffe8b3;
+    height: 3rem;
+    border-radius: 0.6rem;
+    font-size: 2rem;
+}
+.card-item3{
+    width: 2.5rem;
+    color: #2BD47D;
+    background: #C0F2D8;
+    height: 3rem;
+    border-radius: 0.6rem;
+    font-size: 2rem;
+}
+.card-item4{
+    width: 2.5rem;
+    color: #e05260;
+    background: #f7d4d7;
+    height: 3rem;
+    border-radius: 0.6rem;
+    font-size: 2rem;
+}
+.text-card{
+  font-size: 12px;
+  margin-left: 0.5rem;
+}
+.card-check2{
+    width: 1.4rem;
+    color:#ffe8b3 ;
+    background: #ffc233;
+    height: 1.4rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    margin-top: 0.3rem;
+}
+.textnmber{
+    font-size: 2.5rem;
+    font-weight: 600;
+   
+}
+
+
+
+.small-div{
+    Display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 20px;
+    margin-bottom: 26px;
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% / 5 - 15px);
+    background: #fff;
+    padding: 15px 14px;
+    border-radius: 12px;
+    box-shadow: 0 14.3px 17.9px rgba(0, 0, 0, 0.072);
+}
+.active-card1{
+    background-color: #65a765;
+    color: #fff;
+}
+
+.card-check4{
+    width: 1.4rem;
+    color: #2BD47D;
+    background: #C0F2D8;
+    height: 1.4rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    margin-top: 0.3rem;
+}
+.card-check4{
+    width: 1.4rem;
+    color: #2BD47D;
+    background: #C0F2D8;
+    height: 1.4rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    margin-top: 0.3rem;
+}
+
+.card-check5{
+
+
+
+    width: 1.4rem;
+    color: #e05260;
+    background: #f7d4d7;
+    height: 1.4rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    margin-top: 0.3rem;
+    
+}
+
+.card-itemactive{
+
+   
+    width: 2.5rem;
+    color: #66b0ff;
+    background: #cce5ff;
+    height: 3rem;
+    border-radius: 0.6rem;
+    font-size: 2rem;
+}
